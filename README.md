@@ -2,7 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================
 Front End Software Developer
 ----------------------------
-I've had a passion for technology my entire life, which primarily started out with computer hardware and IT, but recently I've decided to try my hand at programming, as it had always fascinated me. I pursued the opportunity to attend the Promineo Tech front end software boot camp, and have been learning how to use the primary aspects such as JavaScript, HTML, CSS, and other cornerstones of front end web development.* 🌍  I'm based in Kansas City, MO* 🖥️  See my portfolio at [Github](http://github.com/cssmith17?tab=repositories)* ✉️  You can contact me at [claytonssmith@hotmail.com](mailto:claytonssmith@hotmail.com)* 🧠  I'm learning React
+I've had a passion for technology my entire life, which primarily started out with computer hardware and IT, but recently I've decided to try my hand at programming, as it had always fascinated me. I pursued the opportunity to attend the Promineo Tech front end software boot camp, and have been learning how to use the primary aspects such as JavaScript, HTML, CSS, and other cornerstones of front end web development.
+* 🌍  I'm based in Kansas City, MO
+* 🖥️  See my portfolio at [Github](http://github.com/cssmith17?tab=repositories)
+* * ✉️  You can contact me at [claytonssmith@hotmail.com](mailto:claytonssmith@hotmail.com)
+* * 🧠  I'm learning React
 
 ### Skills
 
